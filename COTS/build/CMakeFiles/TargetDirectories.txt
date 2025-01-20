@@ -1,0 +1,5 @@
+/home/fazloka/ITI/ITI_NEO_AVR/COTS/build/CMakeFiles/ATmega32_Project.elf.dir
+/home/fazloka/ITI/ITI_NEO_AVR/COTS/build/CMakeFiles/generate_hex.dir
+/home/fazloka/ITI/ITI_NEO_AVR/COTS/build/CMakeFiles/upload.dir
+/home/fazloka/ITI/ITI_NEO_AVR/COTS/build/CMakeFiles/edit_cache.dir
+/home/fazloka/ITI/ITI_NEO_AVR/COTS/build/CMakeFiles/rebuild_cache.dir
